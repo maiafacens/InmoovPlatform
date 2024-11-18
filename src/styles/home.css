@@ -5,20 +5,7 @@
   --fonte1: "Orbitron";
 }
 
-body {
-  background-color: #2fc4b2;
-}
-
-.Inmoov-logo {
-  height: 125px;
-}
-
-.Logo-space {
-  display: flex;
-  align-items: center;
-}
-
-.App-header {
+.Home-header {
   background-color: #2fc4b2;
   display: flex;
   width: 100%;
